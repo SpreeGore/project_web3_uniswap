@@ -22,5 +22,9 @@
   },
   "resolutions": {
     "react-error-overlay": "6.0.9"
+  },
+  "dependencies": {
+    "node": "^21.6.2",
+    "options": "^0.0.6"
   }
 }
